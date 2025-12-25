@@ -1,0 +1,3 @@
+Versión:1.5 
+compatibilidad con Ubuntu
+mayor robustez de distribuciones basadas en debian
