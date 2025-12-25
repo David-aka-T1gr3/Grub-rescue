@@ -1,2 +1,1 @@
-# Grub-rescue
-a small program to recover the grub in debian based distributions
+GRUB Repair is a tool oriented towards Ubuntu or Debian systems that works on 90% of Debian-based distributions. There may be exceptions in the rare case that a distribution changes the directory names. Simply run reparar-grub.sh with chroot permissions from a live environment on the machine you wish to repair and follow the steps provided by the program.
